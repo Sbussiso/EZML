@@ -6,6 +6,8 @@ import re
 import csv
 from io import StringIO
 
+#! TODO: test data sets
+
 # OpenAI API key
 openai.api_key = "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"
 
