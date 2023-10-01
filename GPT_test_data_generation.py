@@ -9,7 +9,7 @@ from io import StringIO
 #! TODO: test data sets
 
 # OpenAI API key
-openai.api_key = "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"
+user_api = input("Enter API key: ")
 
 def chat_with_model(prompt):
     logging.debug('MEASURING REQUEST SIZE AFTER PROCESS')
