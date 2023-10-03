@@ -45,3 +45,21 @@ Bot: The generated data has been exported to 'generated_data.xlsx'
 
 # Note:
 You must have an openAI API key to use this program
+
+step 1. go to www.openAI.com
+
+step 2. create an account or login
+
+step 3. go to the API secton
+
+step 4. go to "personal" in the top right corner by your pfp
+
+step 5. go to "view API keys"
+
+steo 6. in the API keys section click "Create new secret key"
+
+step 7. name your key (optional)
+
+step 8. press "create secret key"
+
+step 9. store and save your key somwhere safe (you will not be able to view it again thru your account for security reasons)
